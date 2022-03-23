@@ -86,7 +86,7 @@ module.exports = {
 
   plugins: [
     new ModuleFederationPlugin({
-      name: '{{inputs.application_name|lower}}',
+      name: '{{inputs.project_name|lower}}',
       filename: 'remoteEntry.js',
       remotes: {},
       exposes: {

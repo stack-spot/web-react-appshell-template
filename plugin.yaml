@@ -7,5 +7,6 @@ tags:
 inputs:
   - label: "Project name(must not have spaces and be lowercase)"
     type: text
-    name: "application_name"
+    name: "project_name"
+    global: true
     default: "stackfront_web_shell"
