@@ -36,3 +36,4 @@ https://github.com/stack-spot/web-react-appshell-template.git
 ```
   npm install
 ```
+
